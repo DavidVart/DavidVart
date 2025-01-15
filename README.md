@@ -2,25 +2,26 @@
 
 ## About Me
 
-I'm a **third-year Computer Science student** at [IE University](https://www.ie.edu/), passionate about **Robotics**, **Automation**, **Software Development**, and **Artificial Intelligence**. I’m currently the **Lead Software Developer** at [Jobsi](https://jobsi.com) and an active member of my university's **Robotics Club**.
+I'm a **third-year Computer Science student** at [IE University](https://www.ie.edu/), passionate about **Robotics**, **Automation**, **Software Development**, and **Artificial Intelligence**. Currently, I am the **Lead Software Developer** at [Jobsi](https://jobsi.com), a startup revolutionizing the job application process, and an active **Robotics Engineer** at the Robotics & AI Lab in Madrid, working on innovative projects like building functional quadruped robots.
 
 ---
 
 ## 🚀 Key Highlights
 
-- **Lead Developer at Jobsi**: Driving innovative solutions for job seekers.
-- **Robotics Club Projects**: Bridging hardware and software in exciting ways.
-- **AI Enthusiast**: Developing intelligent, data-driven systems.
+- **Lead Developer at [Jobsi](https://jobsi.com)**: Spearheaded full-stack development and AI API integration to transform the hiring process.
+- **Robotics Engineer at [Robotics & AI Lab](https://example.com/robotics-lab)**: Designed advanced quadruped robots and conducted digital simulations for optimization.
+- **Former Intern at [Axonius](https://axonius.com)**: Enhanced client efficiency by 20% through data-driven visualization tools.
+- **Active Member of Google Developer Students Club (GDSC)**: Organized workshops and led tech-driven solutions for real-world challenges.
 
 ---
 
 ## 🛠 Skills at a Glance
 
-**Languages**: Python, C++, JavaScript
+**Languages**: Python, C++, JavaScript, SQL
 
-**Frameworks & Tools**: ROS, TensorFlow, React, Node.js, Docker
+**Frameworks & Tools**: ROS, TensorFlow, Vue.js, Grafana, Docker
 
-**Soft Skills**: Leadership, Problem-solving, Collaboration
+**Soft Skills**: Leadership, Problem-solving, Cross-functional Collaboration
 
 ---
 
@@ -36,8 +37,9 @@ I'm a **third-year Computer Science student** at [IE University](https://www.ie.
 
 Reach out anytime:
 
-- **[LinkedIn]([https://linkedin.com/in/davidvargas](https://www.linkedin.com/in/david-vargas-timon/))**
-- **Email**: david.vargas@example.com
+- **[LinkedIn](https://www.linkedin.com/in/jorge-vargas-timon/)**
+- **[GitHub](https://github.com/DavidVart)**
+- **Email**: davidvartim@gmail.com
 
 ---
 
