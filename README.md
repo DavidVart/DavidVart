@@ -44,7 +44,7 @@ Reach out anytime:
 
 ## 🌟 Extras
 
-<!-- Placeholder for Contribution Snake -->
+![Contribution Snake](https://github.com/DavidVart/DavidVart/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
