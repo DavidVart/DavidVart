@@ -42,7 +42,7 @@ Reach out anytime:
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
