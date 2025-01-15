@@ -26,9 +26,9 @@ I'm a **third-year Computer Science student** at [IE University](https://www.ie.
 
 ## 📊 Visual Insights
 
-<!-- Placeholder for GitHub Stats -->
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidVart&show_icons=true&theme=tokyonight&hide_border=true)
 
-<!-- Placeholder for Top Languages Chart -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVart&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
