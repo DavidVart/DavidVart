@@ -44,13 +44,8 @@ Reach out anytime:
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DavidVart/DavidVart/raw/main/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DavidVart/DavidVart/raw/main/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/DavidVart/DavidVart/raw/main/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/DavidVart/DavidVart/generate-snake.yml?label=Snake%20Action&style=flat-square)](https://github.com/DavidVart/DavidVart/actions/workflows/generate-snake.yml)
+
 
 
 
