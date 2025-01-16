@@ -46,6 +46,15 @@ Reach out anytime:
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/DavidVart/DavidVart/generate-snake.yml?label=Snake%20Action&style=flat-square)](https://github.com/DavidVart/DavidVart/actions/workflows/generate-snake.yml)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidVart/DavidVart/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidVart/DavidVart/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/DavidVart/DavidVart/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+
 
 
 
