@@ -24,9 +24,12 @@ jobs:
             output/github-contribution-grid-snake-dark.svg
 
       - name: Commit and Push Snake Animation
+        env:
+          TOKEN: ${{ secrets.ACTIONS_PAT }}
         run: |
           git config --local user.email "github-actions@github.com"
           git config --local user.name "GitHub Actions"
+          git pull origin main --rebase  # Pull latest changes from the remote branch
           git add output/
           git commit -m "Updated snake animation"
           git push
