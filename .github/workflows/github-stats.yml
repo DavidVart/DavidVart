@@ -1,0 +1,30 @@
+name: GitHub Stats Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Generate GitHub Stats Images
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: DavidVart
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: DavidVart
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist 

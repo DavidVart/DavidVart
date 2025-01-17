@@ -1,0 +1,22 @@
+name: Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Generate Activity Graph
+        uses: Ashutosh00710/github-readme-activity-graph@v3.0.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: DavidVart
+          theme: tokyo-night
+          area: true
+          hide_border: true 
