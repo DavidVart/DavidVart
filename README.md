@@ -38,4 +38,4 @@ Reach out anytime:
 
 - **[LinkedIn](https://www.linkedin.com/in/david-vargas-timon/)**
 - **[GitHub](https://github.com/DavidVart)**
-- **Email**: davidvartim@gmail.com
+- davidvartim@gmail.com
