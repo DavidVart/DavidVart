@@ -70,10 +70,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVart&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidVart&theme=tokyonight&hide_border=true" />
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
