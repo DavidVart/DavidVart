@@ -82,14 +82,6 @@
   
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/DavidVart/DavidVart/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DavidVart&theme=tokyo-night&hide_border=true)
-
 ---
 
 <div align="center">
