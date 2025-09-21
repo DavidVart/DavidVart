@@ -14,7 +14,7 @@
 ## 🎓 About Me
 
 > I'm a **third-year Computer Science student** at [IE University](https://www.ie.edu/) with a passion for pushing the boundaries of technology. Currently wearing multiple hats as:
-> - 🚀 **Lead Software Developer** at [Jobsi](https://github.com/JobsiSoftwares)
+> - 🚀 **Co-Founder** of **Ping**
 > - 🤖 **Robotics Engineer** at the [Robotics & AI Lab](https://github.com/botzo-team) in Madrid
 
 ## 🌟 Professional Journey
